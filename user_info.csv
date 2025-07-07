@@ -1,4 +1,4 @@
-email,username,session_token
-test1@example.com,username1,session_token1
-test2@example.com,username2,session_token2
-test3@example.com,username3,session_token3
+user_id,username,session_token
+alice77,username1,session_token1
+bob88,username2,session_token2
+flora99,username3,session_token3
