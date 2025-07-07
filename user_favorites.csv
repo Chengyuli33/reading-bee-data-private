@@ -1,3 +1,5 @@
-user_id,isbn
-faaf6d52-db32-4be7-ba6a-7b1d45e23c59,9781859846667
-fc6f1995-8102-4223-9841-4bd484fffaf6,9780192820808
+email,isbn
+test1@example.com,9780679781790
+test1@example.com,9780805073157
+test2@example.com,9780679762232
+test3@example.com,9781859846667

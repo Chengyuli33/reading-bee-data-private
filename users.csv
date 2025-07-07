@@ -1,3 +1,4 @@
-username,email,password_hash
-testuser1,test1@example.com,hashed_pw_1
-testuser2,test2@example.com,hashed_pw_2
+email,password_hash
+test1@example.com,hashed_pw_1
+test2@example.com,hashed_pw_2
+test3@example.com,hashed_pw_3
